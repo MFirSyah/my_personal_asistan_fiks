@@ -1,0 +1,8 @@
+{
+  "name": "FinAct AI",
+  "description": "An AI-driven mobile application that unifies personal finance management and daily activity tracking powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
